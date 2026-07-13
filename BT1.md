@@ -169,5 +169,3 @@ public class TransactionParser {
     }
 }
 ```
-
-**[AI RESPONSE END]**
